@@ -2,7 +2,7 @@
 
 <section xml:id="Introduction" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Introduction</title>
-  
+  <introduction>
   <p>John Dewey and his compatriots proposed that a central goal of higher education is "assisting individuals to develop the capacities to realise their vocation (i.e., to be effective in their preferred occupation)" 
     <xref ref="mulder_competence_2017"/>.
     Similarly pragmatic and utilitarian views of higher education were also advanced by other visionaries such as Humboldt, however the focus of his interest was largely in the development of the citizen.
@@ -56,8 +56,9 @@
         collected from academic and student stakeholder groups, which
         are analysed to formulate competencies that provide a concrete
         example of how the model and methodology are applied.</p>
+      </introduction>
 
-        <subsection xml:id="subsubsec-motivation">
+        <subsection xml:id="subsec-motivation">
           <title>Motivation</title>
           <p>The educational needs of students in computing evolve in alignment
             with the development of the intellectual and practical domains that
