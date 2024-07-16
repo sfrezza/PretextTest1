@@ -4,19 +4,24 @@
   <!-- we first include a file which contains the docinfo element: -->
   <xi:include href="./docinfo.ptx" />
 
-  <book xml:id="my-great-book">
-    <title>My Great Book</title>
-    <subtitle>An example to get you started</subtitle>
+  <article xml:id="ITiCSE-2018">
+    <title>Modelling Competencies for Computing Education beyond 2020:
+      A Research Based Approach to Defining Competencies in the
+      Computing Disciplines</title>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
 
     <!-- Include chapters -->
-    <xi:include href="./ch-chapter-title.ptx" />
+     <xi:include href="./abstract.ptx" />
 
+    <!-- Include chapters -->
+     <!-- 
+    <xi:include href="./ch-chapter-title.ptx" />
+-->
 
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />
 
-  </book>
+  </article>
 </pretext>

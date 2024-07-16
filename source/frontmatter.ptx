@@ -6,12 +6,30 @@
 <frontmatter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="frontmatter">
   <titlepage>
     <author>
-      <personname>You</personname>
-      <department>Your department</department>
-      <institution>Your institution</institution>
+      <personname>Stephen Frezza</personname>
+      <institution>Gannon University, Erie, PA USA</institution>
+      <email>frezza001@gannon.edu</email>
     </author>
+    <author>
+      <personname>Mats Daniels</personname>
+      <institution>Uppsala University, Uppsala, Sweden</institution>
+      <email>mats.daniels@it.uu.se</email>
+    </author>
+    <author>
+      <personname>Arnold Pears</personname>
+      <institution>KTH Royal Institute of Technology, Stockholm, Sweden</institution>
+      <email>pears@kth.se</email>
+    </author>
+
+    <author>
+      <personname>Åsa Cajander</personname>
+      <institution>Uppsala University, Uppsala, Sweden</institution>
+      <email>asa.cajander@it.uu.se</email>
+    </author>
+
+
     <date>
-      <today />
+      July 2–4, 2018
     </date>
   </titlepage>
 

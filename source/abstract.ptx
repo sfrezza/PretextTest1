@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="abstract" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Abstract</title>
+
+    <p> How might the content and outcomes of tertiary education programmes
+        be described and analysed in order to understand how
+        they are structured and function? To address this question we develop
+        a framework for modelling graduate competencies linked to
+        tertiary degree programmes in the computing disciplines. While
+        the focus of our work is computing the framework is applicable to
+        education more broadly.
+    </p>
+    <p>The work presented here draws upon the pioneering curricular
+        document for information technology (IT2017), curricular competency
+        frameworks, other related documents such as the software
+        engineering competency model (SWECOM), the Skills Framework
+        for the Information Age (SFIA), current research in competency
+        models, and elicitation workshop results from recent computing
+        conferences.
+    </p>
+    <p>
+        The aim is to inform the ongoing Computing Curricula (CC2020)
+        project, an endeavour supported by the Association for Computing
+        Machinery (ACM) and the IEEE Computer Society. We develop the
+        Competency Learning Framework (CoLeaF), providing an internationally
+        relevant tool for describing competencies. We argue that this competency based approach is well suited for constructing
+        learning environments and assists degree programme architects in
+        dealing with the challenge of developing, describing and including
+        competencies relevant to computer and IT professionals.
+    </p>
+    <p> In this paper we demonstrate how the CoLeaF competency framework
+        can be applied in practice, and though a series of case studies
+        demonstrate its effectiveness and analytical power as a tool for
+        describing and comparing degree programmes in the international
+        higher education landscape.
+    </p>
+
+<concepts>
+  <title>CCS CONCEPTS</title>
+  <p> Social and professional topics→Computing education;</p>
+</concepts>
+
+<keywords>
+<title>KEYWORDS</title>
+  <p>Computing competencies; Professional competencies; curriculum
+  guidelines; CC2020</p>
+  </keywords>
+
+
+<block>
+  <title>ACM Reference Format:</title>
+  <p>Stephen Frezza, Mats Daniels, Arnold Pears, Åsa Cajander, Viggo Kann,
+  Amanpreet Kapoor, Roger McDermott, Anne-Kathrin Peters, Mihaela Sabin,
+  and Charles Wallace. 2018. Modelling Competencies for Computing Education
+  beyond 2020: A Research Based Approach to Defining Competencies
+  in the Computing Disciplines. 
+  In <em>Proceedings Companion of the 23rd Annual ACM Conference on Innovation and Technology in Computer Science Education
+  (ITiCSE ’18 Companion)</em>, 
+  July 2–4, 2018, Larnaca, Cyprus. ACM, New York, NY, USA, 27 pages. https://doi.org/10.1145/3293881.3295782
+  </p>
+</block>
+
+</section>
