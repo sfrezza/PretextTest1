@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="Introduction" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Introduction</title>
+  
+  <p>John Dewey and his compatriots proposed that a central goal of higher education is "assisting individuals to develop the capacities to realise their vocation (i.e., to be effective in their preferred occupation)" 
+    <xref ref="mulder_competence_2017"/>.
+    Similarly pragmatic and utilitarian views of higher education were also advanced by other visionaries such as Humboldt, however the focus of his interest was largely in the development of the citizen.
+ </p>
+ 
+<p>To achieve this goal it is necessary to establish, evolve and assess the educational process by which students in computing degree programs make the transition into becoming computing professionals.
+  Historically, computing education has taken a content knowledge perspective, through the definition of bodies of knowledge and program outcomes that focus on the content knowledge of the degree program \cite{joint_task_force_on_computing_curricula_software_2015}. This focus on knowledge is however problematic in the 21st century computing context, where the borders between knowledge-based descriptions of computing sub-disciplines  and the broad profession of computing are becoming increasingly blurred. In computing and IT, challenges also emerge due to the complex dependencies inherent in the profound integration of these disciplines into almost every aspect of human life.
+</p>
+
+<p>This article develops an empirically driven framework (CoLeaF)
+  for defining competencies in the computing disciplines in tertiary
+  education. To develop CoLeaF, we applied a multi-faceted approach
+  which combines a comprehensive synthesis of the literature with
+  structured elicitation of graduate competencies from key stakeholder
+  groups1. In particular we explored the student discourse
+  surrounding professional competencies, and the development of
+  conceptions of professional competencies over time. As a theoretical
+  point of departure we examine the literature around the notion
+  of competency as a means to describe and communicate about
+  computing programs among different stakeholders. Drawing upon
+  this analysis we propose a working definition of competency, and
+  model competency learning, through which students develop the
+  competencies of their degree programme.</p>
+
+  <p>The aim is to provide a forward looking and sustainable approach
+    to defining disciplinary competencies. We propose a shift
+    in the approach from graduate learning outcomes derived from the
+    Bodies of Knowledge (BoK) of the disciplinary areas. Instead, we
+    propose applying a structured analysis to graduate expectations
+    elicited from the stakeholders in computing education. These stakeholders
+    include educators, students, industry and other employers
+    of computing graduates, policy makers, professional societies, etc.
+    To assist in the derivation of competencies that articulate expectations
+    of graduates from tertiary computing degree programs as
+    they enter professional careers and engage in civic aspects of their
+    lives, we propose a theoretical model and methodology for formulating
+    competencies based on input from the range of stakeholder
+    communities we have identified.</p>
+    <p>
+      Defining a competency-based description of a computing degree
+      program by using the competency model proposed here involves
+      collecting empirical data through surveys and interviews with stakeholders.
+      The data sets are then systematically examined by applying
+      the proposed model and analytic methodology in order to derive a
+      set of competencies, in which increasingly abstract competencies
+      describe computing degree program objectives and graduate profile
+      in terms of what its graduates are prepared to do in the workplace
+      and society at large. </p>
+
+      <p>The application of the model is demonstrated on two sets of data
+        collected from academic and student stakeholder groups, which
+        are analysed to formulate competencies that provide a concrete
+        example of how the model and methodology are applied.</p>
+
+        <subsection xml:id="subsubsec-motivation">
+          <title>Motivation</title>
+          <p>The educational needs of students in computing evolve in alignment
+            with the development of the intellectual and practical domains that
+            constitute the profession. Among the many issues involved is the
+            emergence of more common understandings of what makes up computing
+            as a discipline, and how computing education is described
+            and communicated among various stakeholders. Answering these
+            questions is critical both for determining what new developments
+            further expand the depth and breadth of the discipline, and those
+            that cross over into other intellectual and professional domains. In
+            computing education, this is particularly important, as there are
+            significant differences with respect to what is meant for a particular
+            computing term in different sub-disciplines of computing, and in
+            the various educational programs around the world. Thus, there
+            is a critical need for a ’common currency’ to reasonably describe
+            computing education programs and their respective goals.</p>
+
+            <p>Similarly, computing is more accurately described as a family
+              
+            </p>
+        </subsection>
+
+</section>
