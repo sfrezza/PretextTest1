@@ -9,7 +9,8 @@
  </p>
  
 <p>To achieve this goal it is necessary to establish, evolve and assess the educational process by which students in computing degree programs make the transition into becoming computing professionals.
-  Historically, computing education has taken a content knowledge perspective, through the definition of bodies of knowledge and program outcomes that focus on the content knowledge of the degree program \cite{joint_task_force_on_computing_curricula_software_2015}. This focus on knowledge is however problematic in the 21st century computing context, where the borders between knowledge-based descriptions of computing sub-disciplines  and the broad profession of computing are becoming increasingly blurred. In computing and IT, challenges also emerge due to the complex dependencies inherent in the profound integration of these disciplines into almost every aspect of human life.
+  Historically, computing education has taken a content knowledge perspective, through the definition of bodies of knowledge and program outcomes that focus on the content knowledge of the degree program <xref ref="joint_task_force_on_computing_curricula_software_2015"/>. 
+  This focus on knowledge is however problematic in the 21st century computing context, where the borders between knowledge-based descriptions of computing sub-disciplines  and the broad profession of computing are becoming increasingly blurred. In computing and IT, challenges also emerge due to the complex dependencies inherent in the profound integration of these disciplines into almost every aspect of human life.
 </p>
 
 <p>This article develops an empirically driven framework (CoLeaF)
@@ -76,8 +77,17 @@
             is a critical need for a ’common currency’ to reasonably describe
             computing education programs and their respective goals.</p>
 
-            <p>Similarly, computing is more accurately described as a family
-              
+            <p>Similarly, computing is more accurately described as a family of disciplines, with reliance on three intertwined intellectual traditions: the mathematical (or analytical, theoretical, or formalist) tradition, the scientific (or empirical) tradition, and the engineering (or technological) tradition <xref ref="tedre_three_2008"/>. 
+              Within all three of these intellectual traditions, the common tendency has been to develop competency models and ontologies that focus primarily on cognitive development <xref ref="sentance_taxonomies_2018"/>, and hence the prevalence of knowledge dimension. 
+              Consequently, one of the motivations for this work is to propose a model and methodology that allow the goals of tertiary degree programs to extend 'beyond the cognitive' <xref ref="lynch_beyond_2009,topi_information_2017"/> and be more explicit about articulating the skills, knowledge, attitudes, and professional values expected in a graduate.
+            </p>
+            <p>A third motivation is to encourage tertiary computing programs to explicitly extend their focus 'beyond the technical'.  Numerous professional (e.g., \cite{the_royal_academy_of_engineering_engineering_2009}), degree program (e.g., \cite{sabin_competency-based_2018}) and disciplinary documents (e.g., \cite{ieee_computer_society_software_2014},~\cite{joint_task_force_on_computing_curricula_software_2015,task_group_on_information_technology_curricula_information_2017}) strongly suggest that computing students need to exhibit professional competency in multiple ways beyond their technical knowledge. Broadening the scope of the discipline, for example, by emphasising social aspects, can lead to more diversity in the people engaging in computer science~\cite{faulkner_technology_2001, Faulkner_2007}, and thus to a more democratic advancement of technological development.
+              In this manner, a compelling competency model offers a means of integrating more explicitly expectations of computing graduates that expand beyond the technical domain.
+            </p>
+            <p>The normative solution to issues pertaining to meaning is to develop an ontology that creates an agreed-upon structure of language and defines an area for common use, such that this language then becomes the "common currency" for establishing shared meaning. Various attempts at developing computing education ontologies have been helpful, but are also incomplete and have had difficulty mapping across different levels of education. Sabin \textit{et al}. ~\cite{sabin_competency-based_2018} and the IT2017 report ~\cite{task_group_on_information_technology_curricula_information_2017} have shifted the curriculum discourse towards using computing competencies as a means of describing computing degree programmes in ways that can be meaningfully compared across nationalities, languages, geographical locations, and, possibly, across computing disciplines. The IT2017 report presents a scholarly-based definition of IT competency as a triad of inter-related dimensions of knowledge, skills, and dispositions situated in a professional context  ~\cite{perkins_beyond_1993, council_of_chief_state_school_officers_knowledge_2013, schussler_defining_2006,pikkarainen_competence_2014}. 
+            </p>
+            <p> Our goal is not to create a computing education ontology, but rather to present a  competency model and method that can be used to describe the various computing disciplines in general, and computing degree programs in particular. 
+              Utilising a richer competency approach affords minting of a new currency, a newer means of describing and comparing computing degree programs and their components worldwide. 
             </p>
         </subsection>
 

@@ -28,8 +28,23 @@
 	<year>2017</year>
 	<doi>10.1007/978-3-319-41713-4_50</doi>
 	<pages>1071--1106</pages>
-
       </biblio>
+
+      <biblio xml:id="joint_task_force_on_computing_curricula_software_2015" type="bibtex">
+        <pubtitle> </pubtitle>
+        <year>2015</year>
+      </biblio>
+
+    <biblio xml:id="tedre_three_2008" type="bibtex">
+      <pubtitle> </pubtitle>
+      <year>2008</year>
+    </biblio>
+
+  <biblio xml:id="sentance_taxonomies_2018" type="bibtex">
+    <pubtitle> </pubtitle>
+    <year>2018</year>
+  </biblio>
+    
 
   </references>
   <colophon>
